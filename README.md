@@ -87,6 +87,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/meitnix/meitnix/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/meitnix/meitnix/output/snake.svg" alt="Snake animation" />
 
 ###

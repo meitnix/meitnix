@@ -79,8 +79,8 @@
 <p><img src="https://profile-counter.glitch.me/{meitnix}/count.svg" alt="meitnix :: Visitor's Count" /></p>
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=meitnix" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=meitnix" height="150" alt="languages graph"  />	
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meitnix&theme=monokai" alt="meitnix" /></p>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meitnix&theme=monokai&no-bg=true" alt="meitnix" /></a> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meitnix&theme=merko" alt="meitnix" /></p>
+<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meitnix&theme=matrix&no-bg=true" alt="meitnix" /></a> </p>
 </div>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>

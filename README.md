@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Meitnix </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <img align="left" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70"> <img align="right" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70"><h1 align="center"><b>Hi , I'm Meitnix </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=24&duration=3000&pause=600&color=0CA3F7&center=true&vCenter=true&width=435&height=130&lines=%F0%9F%9A%A9+Hare+Krishna+Hare+Krishna+%F0%9F%9A%A9;%F0%9F%9A%A9+Krishna+Krishna+Hare+Hare+%F0%9F%9A%A9;%F0%9F%9A%A9+Hare+Rama+Hare+Rama+%F0%9F%9A%A9;%F0%9F%9A%A9+Rama+Rama+Hare+Hare+%F0%9F%9A%A9" alt="Jai Shree Krishna" /></a>
 </p>
@@ -86,7 +86,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 ###
-
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <img src="https://raw.githubusercontent.com/meitnix/meitnix/output/snake.svg" alt="Snake animation" />
 
 ###

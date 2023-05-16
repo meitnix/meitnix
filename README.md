@@ -13,9 +13,9 @@
 
 - 🌏 I'm a passionate Developer from **Earth**
 	
-- 🔭 I’m currently working on **Streaming Server**
+- 🔭 I’m currently working on **Multilingual Streaming Application, Openwrt Firmwares & Custom Jenkins**
 
-- 🌱 I’m currently learning about **TR069**
+- 🌱 I’m currently learning about **TR069, Kubernetes**
 
 - 📫 How to reach me **meitnix@gmail.com**
 

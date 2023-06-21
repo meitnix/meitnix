@@ -1,10 +1,12 @@
 
- <img align="left" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70"> <img align="right" src="https://c.tenor.com/SOVMSXmWB1kAAAAi/tony-star-jumping.gif" width="70"><h1 align="center"><b>Hi , I'm Meitnix </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ <h1 align="center"><b>Hi , I'm Meitnix </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+ 
+ 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=200&size=24&duration=3000&pause=600&color=0CA3F7&center=true&vCenter=true&width=435&height=130&lines=%F0%9F%9A%A9+Hare+Krishna+Hare+Krishna+%F0%9F%9A%A9;%F0%9F%9A%A9+Krishna+Krishna+Hare+Hare+%F0%9F%9A%A9;%F0%9F%9A%A9+Hare+Rama+Hare+Rama+%F0%9F%9A%A9;%F0%9F%9A%A9+Rama+Rama+Hare+Hare+%F0%9F%9A%A9" alt="Jai Shree Krishna" /></a>
 </p>
-<details>
-<summary>
+<details open>
+<summary>	
 	
 ## <img src="https://media2.giphy.com/media/gHQiRVOSnGXEY2Ntqv/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>About me</b>
 	
@@ -72,15 +74,17 @@
 <details>
 <summary>
 	
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Stats </b>
 </summary>
 <div align="center">
 	<h4>Visitor's count :eyes:</h4>
 <p><img src="https://profile-counter.glitch.me/{meitnix}/count.svg" alt="meitnix :: Visitor's Count" /></p>
+
+ ![tryhackme stats](https://raw.githubusercontent.com/meitnix/meitnix/main/assets/thm_propic.png)
+ 
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&username=meitnix" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=merko&hide_border=false&username=meitnix" height="150" alt="languages graph"  />	
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meitnix&theme=merko" alt="meitnix" /></p>
-<p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meitnix&theme=matrix&no-bg=true" alt="meitnix" /></a> </p>
 </div>
 </details>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
